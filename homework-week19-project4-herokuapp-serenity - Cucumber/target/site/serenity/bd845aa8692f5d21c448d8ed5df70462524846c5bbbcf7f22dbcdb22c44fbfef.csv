@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Heroku app CURD test with steps","This will create a new booking","SUCCESS","2022-06-07T19:14:43.316+01:00[Europe/London]","0.0","5.59"
+"Heroku app CURD test with steps","Verify if the booking was added to the list","SUCCESS","2022-06-07T19:14:48.959+01:00[Europe/London]","0.0","0.71"
+"Heroku app CURD test with steps","Update the store information and verify updated information","SUCCESS","2022-06-07T19:14:49.677+01:00[Europe/London]","0.0","1.12"
+"Heroku app CURD test with steps","Delete the booking and verify if the list is deleted!","SUCCESS","2022-06-07T19:14:50.802+01:00[Europe/London]","0.0","1.1"
